@@ -1,6 +1,7 @@
 ARG ALPINE_VERSION
 
 FROM alpine:$ALPINE_VERSION
+LABEL maintainer "Scott Mathieson <scott@eingress.io>"
 
 ARG NODE_VERSION
 ARG YARN_VERSION
