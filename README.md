@@ -1,5 +1,7 @@
 # Alpine Node QUIC
 
+**As of Node.js v15.8.0 experimental QUIC support has been removed.**
+
 ## Usage
 
 Default ```WORKDIR``` is ```/app```.
